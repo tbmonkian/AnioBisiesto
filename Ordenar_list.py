@@ -1,3 +1,4 @@
+#from a random list of int numbers, the output must be a sorted list from 1 to 15+0
 puzzle= [[10,3,6,4],[1,5,8,0],[2,13,7,15],[14,9,12,11]]
 
 def tes():
